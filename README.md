@@ -1,3 +1,3 @@
-# Projects
+# Corpus Drawing Project
 
-This repository contains (most) of the projects I have undertaken over the years
+The aim is to produce bots to play a simplified version of the game ‘skribbl.io’. More info will be added as project develops.
